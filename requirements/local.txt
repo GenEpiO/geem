@@ -1,4 +1,4 @@
-django==2.2.10
+django==2.2.24
 sphinx==1.7.*
 django-oauth-toolkit==1.1.*
 psycopg2-binary==2.8.*
